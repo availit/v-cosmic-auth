@@ -1,5 +1,5 @@
 # v-cosmic-auth
-
+![Vue Cosmic Auth](https://i.imgur.com/kVaUFlg.jpg)
 ----
 ## Features
 
@@ -10,13 +10,13 @@
 - Password hashing using PBKDF2 with Salt
 - Email Verification using Nodemailer via SendinBlue
 
-##Needed Improvements
+## Needed Improvements
 
 - Password reset function
 - User avatar support
 
 ----
-##Prerequisites
+## Prerequisites
 > You will be required to have Node JS and npm before starting. Make sure you already have them installed. If not you can find them here: https://nodejs.org
 
 >In order to deploy you will need a Netlify account.
